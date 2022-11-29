@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/invite-app/static/css/main.48fe3f64.css",
+    "main.js": "/invite-app/static/js/main.3bf9792f.js",
+    "static/js/787.b96bc2ef.chunk.js": "/invite-app/static/js/787.b96bc2ef.chunk.js",
+    "index.html": "/invite-app/index.html",
+    "main.48fe3f64.css.map": "/invite-app/static/css/main.48fe3f64.css.map",
+    "main.3bf9792f.js.map": "/invite-app/static/js/main.3bf9792f.js.map",
+    "787.b96bc2ef.chunk.js.map": "/invite-app/static/js/787.b96bc2ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48fe3f64.css",
+    "static/js/main.3bf9792f.js"
+  ]
+}
